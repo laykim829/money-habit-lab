@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://laykim829.github.io/money-habit-lab/sitemap.xml
+
