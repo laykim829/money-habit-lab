@@ -1,75 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://laykim829.github.io/money-habit-lab/</loc>
-    <lastmod>2026-07-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://laykim829.github.io/money-habit-lab/posts/fire-lite-habit-20s.html</loc>
-    <lastmod>2026-07-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://laykim829.github.io/money-habit-lab/posts/budget-app-comparison-2026.html</loc>
-    <lastmod>2026-07-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://laykim829.github.io/money-habit-lab/posts/emergency-fund-parking-account.html</loc>
-    <lastmod>2026-07-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://laykim829.github.io/money-habit-lab/posts/credit-score-habits-for-beginners.html</loc>
-    <lastmod>2026-07-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://laykim829.github.io/money-habit-lab/posts/youth-future-savings-account-guide.html</loc>
-    <lastmod>2026-07-09</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://laykim829.github.io/money-habit-lab/posts/savings-challenge-26weeks.html</loc>
-    <lastmod>2026-07-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://laykim829.github.io/money-habit-lab/posts/stingy-tech-habits-7.html</loc>
-    <lastmod>2026-07-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://laykim829.github.io/money-habit-lab/posts/credit-score-interest-savings.html</loc>
-    <lastmod>2026-07-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://laykim829.github.io/money-habit-lab/posts/savings-vs-deposit-guide.html</loc>
-    <lastmod>2026-07-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://laykim829.github.io/money-habit-lab/posts/debit-vs-credit-card-guide.html</loc>
-    <lastmod>2026-07-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://laykim829.github.io/money-habit-lab/posts/credit-score-habits-guide.html</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
+<url>
+<loc>https://laykim829.github.io/money-habit-lab/</loc>
+<lastmod>2026-07-16</lastmod>
+<changefreq>daily</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>https://laykim829.github.io/money-habit-lab/posts/fire-lite-habit-20s.html</loc>
+<lastmod>2026-07-08</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laykim829.github.io/money-habit-lab/posts/budget-app-comparison-2026.html</loc>
+<lastmod>2026-07-08</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laykim829.github.io/money-habit-lab/posts/emergency-fund-parking-account.html</loc>
+<lastmod>2026-07-08</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laykim829.github.io/money-habit-lab/posts/credit-score-habits-for-beginners.html</loc>
+<lastmod>2026-07-08</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laykim829.github.io/money-habit-lab/posts/youth-future-savings-account-guide.html</loc>
+<lastmod>2026-07-09</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laykim829.github.io/money-habit-lab/posts/savings-challenge-26weeks.html</loc>
+<lastmod>2026-07-10</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laykim829.github.io/money-habit-lab/posts/stingy-tech-habits-7.html</loc>
+<lastmod>2026-07-10</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laykim829.github.io/money-habit-lab/posts/credit-score-interest-savings.html</loc>
+<lastmod>2026-07-10</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laykim829.github.io/money-habit-lab/posts/savings-vs-deposit-guide.html</loc>
+<lastmod>2026-07-15</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laykim829.github.io/money-habit-lab/posts/debit-vs-credit-card-guide.html</loc>
+<lastmod>2026-07-15</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laykim829.github.io/money-habit-lab/posts/credit-score-habits-guide.html</loc>
+<lastmod>2026-07-16</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laykim829.github.io/money-habit-lab/posts/compound-interest-calculator.html</loc>
+<lastmod>2026-07-16</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laykim829.github.io/money-habit-lab/posts/savings-goal-calculator.html</loc>
+<lastmod>2026-07-16</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laykim829.github.io/money-habit-lab/posts/deposit-interest-calculator.html</loc>
+<lastmod>2026-07-16</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://laykim829.github.io/money-habit-lab/posts/retirement-fund-calculator.html</loc>
+<lastmod>2026-07-16</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
 </urlset>
