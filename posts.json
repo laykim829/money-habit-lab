@@ -1,5 +1,12 @@
 [
   {
+    "title": "매달 새는 구독료 잡는 법: 정기결제 점검 습관 만들기",
+    "category": "저축 습관",
+    "summary": "OTT, 클라우드, AI 서비스 등 늘어난 정기결제를 점검해 새는 돈을 잡는 구독 관리 습관을 정리했습니다.",
+    "date": "2026-07-28",
+    "url": "posts/subscription-audit-habit.html"
+  },
+  {
     "title": "신용점수 올리는 법: 2030이 꼭 알아야 할 신용관리 습관 7가지",
     "category": "신용점수 관리",
     "summary": "NICE·KCB 신용점수를 올리는 현실적인 7가지 습관과 무료 조회법을 정리했습니다.",
@@ -76,4 +83,4 @@
     "date": "2026-07-08",
     "url": "posts/credit-score-habits-for-beginners.html"
   }
-    ]
+]
