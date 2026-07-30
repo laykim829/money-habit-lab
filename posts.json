@@ -1,86 +1,93 @@
 [
-  {
-    "title": "매달 새는 구독료 잡는 법: 정기결제 점검 습관 만들기",
-    "category": "저축 습관",
-    "summary": "OTT, 클라우드, AI 서비스 등 늘어난 정기결제를 점검해 새는 돈을 잡는 구독 관리 습관을 정리했습니다.",
-    "date": "2026-07-28",
-    "url": "posts/subscription-audit-habit.html"
-  },
-  {
-    "title": "신용점수 올리는 법: 2030이 꼭 알아야 할 신용관리 습관 7가지",
-    "category": "신용점수 관리",
-    "summary": "NICE·KCB 신용점수를 올리는 현실적인 7가지 습관과 무료 조회법을 정리했습니다.",
-    "date": "2026-07-16",
-    "url": "posts/credit-score-habits-guide.html"
-  },
-  {
-    "title": "체크카드 vs 신용카드: 재테크 습관에 맞는 선택법",
-    "category": "카드 선택 가이드",
-    "summary": "체크카드와 신용카드, 재테크 관점에서 어떤 것이 유리할까? 소비 습관과 혜택을 기준으로 현실적인 선택 기준을 정리했습니다.",
-    "date": "2026-07-15",
-    "url": "posts/debit-vs-credit-card-guide.html"
-  },
-  {
-    "title": "적금 vs 예금 차이와 목돈 모으기 전략",
-    "category": "저축 기초",
-    "summary": "적금과 예금의 차이, 목돈 규모와 목적에 따른 선택 기준을 정리했습니다.",
-    "date": "2026-07-15",
-    "url": "posts/savings-vs-deposit-guide.html"
-  },
-  {
-    "title": "26주 적금 챌린지: 사회초년생이 끝까지 완주하는 법",
-    "category": "저축 습관",
-    "summary": "26주 적금 챌린지가 중도에 실패하는 이유와 완주하는 현실적인 방법.",
-    "date": "2026-07-10",
-    "url": "posts/savings-challenge-26weeks.html"
-  },
-  {
-    "title": "짠테크 습관 7가지: 무리하지 않고 매달 아끼는 법",
-    "category": "짠테크",
-    "summary": "극단적인 절약 없이도 자연스럽게 지출을 줄이는 짠테크 습관 7가지.",
-    "date": "2026-07-10",
-    "url": "posts/stingy-tech-habits-7.html"
-  },
-  {
-    "title": "신용점수 관리 습관: 대출 이자 아끼는 현실적인 방법",
-    "category": "신용 관리",
-    "summary": "신용점수가 대출 이자에 미치는 영향과 일상 관리 습관.",
-    "date": "2026-07-10",
-    "url": "posts/credit-score-interest-savings.html"
-  },
-  {
-    "title": "청년미래적금 완전정리: 청년도약계좌 다음은 이거예요",
-    "category": "청년 저축 상품",
-    "summary": "2026년 6월 출시된 청년미래적금의 가입조건, 정부기여금, 청년도약계좌와의 차이를 정리했습니다.",
-    "date": "2026-07-09",
-    "url": "posts/youth-future-savings-account-guide.html"
-  },
-  {
-    "title": "20대 재테크 습관 5가지: 파이어족 아니어도 되는 이유",
-    "category": "재테크 습관",
-    "summary": "20대부터 실천할 수 있는 현실적인 재테크 습관 5가지, 무리한 투자 없이도 가능합니다.",
-    "date": "2026-07-08",
-    "url": "posts/fire-lite-habit-20s.html"
-  },
-  {
-    "title": "가계부 앱 추천 비교: 토스 vs 뱅크샐러드 vs 브로콜리",
-    "category": "가계부 앱",
-    "summary": "토스, 뱅크샐러드, 브로콜리 3대 가계부·자산관리 앱 비교.",
-    "date": "2026-07-08",
-    "url": "posts/budget-app-comparison-2026.html"
-  },
-  {
-    "title": "비상금 마련부터 파킹통장까지: 월급쟁이 재테크 첫걸음",
-    "category": "저축 습관",
-    "summary": "투자 전 반드시 마련해야 할 비상금 개념과 파킹통장 활용법.",
-    "date": "2026-07-08",
-    "url": "posts/emergency-fund-parking-account.html"
-  },
-  {
-    "title": "사회초년생 신용점수 관리법: 대출도 카드도 유리해지는 습관 5가지",
-    "category": "신용점수",
-    "summary": "사회초년생이 신용점수를 쌓는 현실적인 방법과 피해야 할 실수.",
-    "date": "2026-07-08",
-    "url": "posts/credit-score-habits-for-beginners.html"
-  }
+    {
+          "title": "무지출 챌린지 제대로 하는 법: 사회초년생을 위한 실전 가이드",
+          "category": "짠테크",
+          "summary": "무지출 챌린지가 작심삼일로 끝나지 않도록 습관으로 정착시키는 현실적인 방법을 정리했습니다.",
+          "date": "2026-07-30",
+          "url": "posts/no-spend-challenge-guide.html"
+    },
+    {
+          "title": "매달 새는 구독료 잡는 법: 정기결제 점검 습관 만들기",
+          "category": "저축 습관",
+          "summary": "OTT, 클라우드, AI 서비스 등 늘어난 정기결제를 점검해 새는 돈을 잡는 구독 관리 습관을 정리했습니다.",
+          "date": "2026-07-28",
+          "url": "posts/subscription-audit-habit.html"
+    },
+    {
+          "title": "신용점수 올리는 법: 2030이 꼭 알아야 할 신용관리 습관 7가지",
+          "category": "신용점수 관리",
+          "summary": "NICE·KCB 신용점수를 올리는 현실적인 7가지 습관과 무료 조회법을 정리했습니다.",
+          "date": "2026-07-16",
+          "url": "posts/credit-score-habits-guide.html"
+    },
+    {
+          "title": "체크카드 vs 신용카드: 재테크 습관에 맞는 선택법",
+          "category": "카드 선택 가이드",
+          "summary": "체크카드와 신용카드, 재테크 관점에서 어떤 것이 유리할까? 소비 습관과 혜택을 기준으로 현실적인 선택 기준을 정리했습니다.",
+          "date": "2026-07-15",
+          "url": "posts/debit-vs-credit-card-guide.html"
+    },
+    {
+          "title": "적금 vs 예금 차이와 목돈 모으기 전략",
+          "category": "저축 기초",
+          "summary": "적금과 예금의 차이, 목돈 규모와 목적에 따른 선택 기준을 정리했습니다.",
+          "date": "2026-07-15",
+          "url": "posts/savings-vs-deposit-guide.html"
+    },
+    {
+          "title": "26주 적금 챌린지: 사회초년생이 끝까지 완주하는 법",
+          "category": "저축 습관",
+          "summary": "26주 적금 챌린지가 중도에 실패하는 이유와 완주하는 현실적인 방법.",
+          "date": "2026-07-10",
+          "url": "posts/savings-challenge-26weeks.html"
+    },
+    {
+          "title": "짠테크 습관 7가지: 무리하지 않고 매달 아끼는 법",
+          "category": "짠테크",
+          "summary": "극단적인 절약 없이도 자연스럽게 지출을 줄이는 짠테크 습관 7가지.",
+          "date": "2026-07-10",
+          "url": "posts/stingy-tech-habits-7.html"
+    },
+    {
+          "title": "신용점수 관리 습관: 대출 이자 아끼는 현실적인 방법",
+          "category": "신용 관리",
+          "summary": "신용점수가 대출 이자에 미치는 영향과 일상 관리 습관.",
+          "date": "2026-07-10",
+          "url": "posts/credit-score-interest-savings.html"
+    },
+    {
+          "title": "청년미래적금 완전정리: 청년도약계좌 다음은 이거예요",
+          "category": "청년 저축 상품",
+          "summary": "2026년 6월 출시된 청년미래적금의 가입조건, 정부기여금, 청년도약계좌와의 차이를 정리했습니다.",
+          "date": "2026-07-09",
+          "url": "posts/youth-future-savings-account-guide.html"
+    },
+    {
+          "title": "20대 재테크 습관 5가지: 파이어족 아니어도 되는 이유",
+          "category": "재테크 습관",
+          "summary": "20대부터 실천할 수 있는 현실적인 재테크 습관 5가지, 무리한 투자 없이도 가능합니다.",
+          "date": "2026-07-08",
+          "url": "posts/fire-lite-habit-20s.html"
+    },
+    {
+          "title": "가계부 앱 추천 비교: 토스 vs 뱅크샐러드 vs 브로콜리",
+          "category": "가계부 앱",
+          "summary": "토스, 뱅크샐러드, 브로콜리 3대 가계부·자산관리 앱 비교.",
+          "date": "2026-07-08",
+          "url": "posts/budget-app-comparison-2026.html"
+    },
+    {
+          "title": "비상금 마련부터 파킹통장까지: 월급쟁이 재테크 첫걸음",
+          "category": "저축 습관",
+          "summary": "투자 전 반드시 마련해야 할 비상금 개념과 파킹통장 활용법.",
+          "date": "2026-07-08",
+          "url": "posts/emergency-fund-parking-account.html"
+    },
+    {
+          "title": "사회초년생 신용점수 관리법: 대출도 카드도 유리해지는 습관 5가지",
+          "category": "신용점수",
+          "summary": "사회초년생이 신용점수를 쌓는 현실적인 방법과 피해야 할 실수.",
+          "date": "2026-07-08",
+          "url": "posts/credit-score-habits-for-beginners.html"
+    }
 ]
